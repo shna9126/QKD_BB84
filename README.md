@@ -14,3 +14,7 @@ Project Scope:
 •	BB84 Protocol Simulation: The project will implement the BB84 protocol using Qiskit. The protocol will be simulated between two communicating parties, traditionally referred to as Alice and Bob, for generating and securely sharing a random encryption key.
 •	Eavesdropping Simulation: A third party (Eve) will attempt to intercept the quantum communication. The project will demonstrate how quantum properties reveal the presence of an eavesdropper.
 •	Data Analysis: Analyse the security implications by comparing the key generated under normal conditions with the key generated under eavesdropping, showcasing the drop in fidelity.
+
+
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/9cd08229-a67c-4b05-8124-0ebefd8d03cf">
+
